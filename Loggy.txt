@@ -1,0 +1,44 @@
+февр. 06, 2023 5:58:18 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Пользователь ввёл число при выборе математической операции : 1
+февр. 06, 2023 5:58:18 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Выбрана операция сложения
+февр. 06, 2023 5:58:21 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Пользователь ввёл 1-число: 5
+февр. 06, 2023 5:58:21 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Пользователь ввёл 2-число: 6
+февр. 06, 2023 5:58:21 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Ответ 11
+февр. 06, 2023 5:58:28 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Пользователь ввёл число при выборе математической операции : 2
+февр. 06, 2023 5:58:29 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Выбрана операция вычитания
+февр. 06, 2023 5:58:30 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Пользователь ввёл 1-число: 5
+февр. 06, 2023 5:58:30 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Пользователь ввёл 2-число: 7
+февр. 06, 2023 5:58:30 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Ответ -2
+февр. 06, 2023 5:58:34 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Пользователь ввёл число при выборе математической операции : 3
+февр. 06, 2023 5:58:34 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Выбрана операция умножения
+февр. 06, 2023 5:58:46 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Пользователь ввёл 1-число: 2/3
+февр. 06, 2023 5:58:46 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Пользователь ввёл 2-число: 1/2
+февр. 06, 2023 5:58:46 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Ответ 1/3
+февр. 06, 2023 5:59:19 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Пользователь ввёл число при выборе математической операции : 4
+февр. 06, 2023 5:59:19 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Выбрана операция деления
+февр. 06, 2023 5:59:27 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Пользователь ввёл 1-число: 2/3
+февр. 06, 2023 5:59:27 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Пользователь ввёл 2-число: 4/5
+февр. 06, 2023 5:59:27 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Ответ 5/6
+февр. 06, 2023 5:59:36 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Пользователь ввёл число при выборе математической операции : 0
+февр. 06, 2023 5:59:36 PM Homework.JAVA_HW12_OOP.Model.ModelLogger.LoggerMP setLogger
+INFO: Выход из программы
